@@ -1,0 +1,5 @@
+REFERENCES:
+
+1. https://www.javascripttutorial.net/javascript-fetch-api/
+2. https://www.w3schools.com/js/js_output.asp
+3. https://stackoverflow.com/questions/14379274/how-to-iterate-over-a-javascript-object#:~:text=If%20you%20wanted%20to%20iterate,are%20in%20any%20specified%20order.

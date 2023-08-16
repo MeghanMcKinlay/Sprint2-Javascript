@@ -1,0 +1,51 @@
+[
+  {
+    "series_name": "Game of Thrones",
+    "network": "HBO",
+    "based_on_book": true,
+    "pilot_year": 2011,
+    "num_seasons": 8,
+    "for_children": false,
+    "ongoing": false
+  },
+
+  {
+    "series_name": "Euphoria",
+    "network": "HBO",
+    "based_on_book": false,
+    "pilot_year": 2019,
+    "num_seasons": 2,
+    "for_children": false,
+    "ongoing": true
+  },
+
+  {
+    "series_name": "Buffy the Vampire Slayer",
+    "network": "WB",
+    "based_on_book": false,
+    "pilot_year": 1997,
+    "num_seasons": 7,
+    "for_children": false,
+    "ongoing": false
+  },
+
+  {
+    "series_name": "Gargoyles",
+    "network": "Toon Disney",
+    "based_on_book": false,
+    "pilot_year": 1994,
+    "num_seasons": 3,
+    "for_children": true,
+    "ongoing": false
+  },
+
+  {
+    "series_name": "Hey, Arnold!",
+    "network": "Nickelodeon",
+    "based_on_book": false,
+    "pilot_year": 1996,
+    "num_seasons": 5,
+    "for_children": true,
+    "ongoing": false
+  }
+]
